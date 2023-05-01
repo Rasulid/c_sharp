@@ -1,0 +1,15 @@
+C:\Users\rasul\OneDrive\Desktop\C#\leeson2\bin\Debug\net6.0\leeson2.exe
+C:\Users\rasul\OneDrive\Desktop\C#\leeson2\bin\Debug\net6.0\leeson2.deps.json
+C:\Users\rasul\OneDrive\Desktop\C#\leeson2\bin\Debug\net6.0\leeson2.runtimeconfig.json
+C:\Users\rasul\OneDrive\Desktop\C#\leeson2\bin\Debug\net6.0\leeson2.dll
+C:\Users\rasul\OneDrive\Desktop\C#\leeson2\bin\Debug\net6.0\leeson2.pdb
+C:\Users\rasul\OneDrive\Desktop\C#\leeson2\obj\Debug\net6.0\leeson2.csproj.AssemblyReference.cache
+C:\Users\rasul\OneDrive\Desktop\C#\leeson2\obj\Debug\net6.0\leeson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasul\OneDrive\Desktop\C#\leeson2\obj\Debug\net6.0\leeson2.AssemblyInfoInputs.cache
+C:\Users\rasul\OneDrive\Desktop\C#\leeson2\obj\Debug\net6.0\leeson2.AssemblyInfo.cs
+C:\Users\rasul\OneDrive\Desktop\C#\leeson2\obj\Debug\net6.0\leeson2.csproj.CoreCompileInputs.cache
+C:\Users\rasul\OneDrive\Desktop\C#\leeson2\obj\Debug\net6.0\leeson2.dll
+C:\Users\rasul\OneDrive\Desktop\C#\leeson2\obj\Debug\net6.0\refint\leeson2.dll
+C:\Users\rasul\OneDrive\Desktop\C#\leeson2\obj\Debug\net6.0\leeson2.pdb
+C:\Users\rasul\OneDrive\Desktop\C#\leeson2\obj\Debug\net6.0\leeson2.genruntimeconfig.cache
+C:\Users\rasul\OneDrive\Desktop\C#\leeson2\obj\Debug\net6.0\ref\leeson2.dll
