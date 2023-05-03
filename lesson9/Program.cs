@@ -19,14 +19,19 @@ namespace lesson7 {
 
         // public static int Sum(int x, int y){
         //     return x+y;
-            
-            
+            byte[] numbers = {4,1,5,3,6,4};
+            byte res = Sum(numbers);
+            System.Console.WriteLine(res);
         }
 
-        public static int Sum(int x, int y){
-
+        public static byte Sum(byte[] numbers){
+            byte count = 0;
+            foreach (byte i in numbers)
+                count += i;
+            return count;
 
         }
+
 
     }
 }
