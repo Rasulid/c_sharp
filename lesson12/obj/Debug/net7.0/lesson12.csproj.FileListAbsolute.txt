@@ -1,0 +1,15 @@
+C:\Users\rasul\OneDrive\Desktop\C#\lesson12\bin\Debug\net7.0\lesson12.exe
+C:\Users\rasul\OneDrive\Desktop\C#\lesson12\bin\Debug\net7.0\lesson12.deps.json
+C:\Users\rasul\OneDrive\Desktop\C#\lesson12\bin\Debug\net7.0\lesson12.runtimeconfig.json
+C:\Users\rasul\OneDrive\Desktop\C#\lesson12\bin\Debug\net7.0\lesson12.dll
+C:\Users\rasul\OneDrive\Desktop\C#\lesson12\bin\Debug\net7.0\lesson12.pdb
+C:\Users\rasul\OneDrive\Desktop\C#\lesson12\obj\Debug\net7.0\lesson12.csproj.AssemblyReference.cache
+C:\Users\rasul\OneDrive\Desktop\C#\lesson12\obj\Debug\net7.0\lesson12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasul\OneDrive\Desktop\C#\lesson12\obj\Debug\net7.0\lesson12.AssemblyInfoInputs.cache
+C:\Users\rasul\OneDrive\Desktop\C#\lesson12\obj\Debug\net7.0\lesson12.AssemblyInfo.cs
+C:\Users\rasul\OneDrive\Desktop\C#\lesson12\obj\Debug\net7.0\lesson12.csproj.CoreCompileInputs.cache
+C:\Users\rasul\OneDrive\Desktop\C#\lesson12\obj\Debug\net7.0\lesson12.dll
+C:\Users\rasul\OneDrive\Desktop\C#\lesson12\obj\Debug\net7.0\refint\lesson12.dll
+C:\Users\rasul\OneDrive\Desktop\C#\lesson12\obj\Debug\net7.0\lesson12.pdb
+C:\Users\rasul\OneDrive\Desktop\C#\lesson12\obj\Debug\net7.0\lesson12.genruntimeconfig.cache
+C:\Users\rasul\OneDrive\Desktop\C#\lesson12\obj\Debug\net7.0\ref\lesson12.dll
