@@ -1,0 +1,15 @@
+C:\Users\rasul\OneDrive\Desktop\C#\register\obj\Debug\net7.0\register.csproj.AssemblyReference.cache
+C:\Users\rasul\OneDrive\Desktop\C#\register\obj\Debug\net7.0\register.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasul\OneDrive\Desktop\C#\register\obj\Debug\net7.0\register.AssemblyInfoInputs.cache
+C:\Users\rasul\OneDrive\Desktop\C#\register\obj\Debug\net7.0\register.AssemblyInfo.cs
+C:\Users\rasul\OneDrive\Desktop\C#\register\obj\Debug\net7.0\register.csproj.CoreCompileInputs.cache
+C:\Users\rasul\OneDrive\Desktop\C#\register\bin\Debug\net7.0\register.exe
+C:\Users\rasul\OneDrive\Desktop\C#\register\bin\Debug\net7.0\register.deps.json
+C:\Users\rasul\OneDrive\Desktop\C#\register\bin\Debug\net7.0\register.runtimeconfig.json
+C:\Users\rasul\OneDrive\Desktop\C#\register\bin\Debug\net7.0\register.dll
+C:\Users\rasul\OneDrive\Desktop\C#\register\bin\Debug\net7.0\register.pdb
+C:\Users\rasul\OneDrive\Desktop\C#\register\obj\Debug\net7.0\register.dll
+C:\Users\rasul\OneDrive\Desktop\C#\register\obj\Debug\net7.0\refint\register.dll
+C:\Users\rasul\OneDrive\Desktop\C#\register\obj\Debug\net7.0\register.pdb
+C:\Users\rasul\OneDrive\Desktop\C#\register\obj\Debug\net7.0\register.genruntimeconfig.cache
+C:\Users\rasul\OneDrive\Desktop\C#\register\obj\Debug\net7.0\ref\register.dll

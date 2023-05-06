@@ -1,0 +1,15 @@
+/mnt/c/Users/rasul/OneDrive/Desktop/C#/lesson14/bin/Debug/net7.0/lesson14
+/mnt/c/Users/rasul/OneDrive/Desktop/C#/lesson14/bin/Debug/net7.0/lesson14.deps.json
+/mnt/c/Users/rasul/OneDrive/Desktop/C#/lesson14/bin/Debug/net7.0/lesson14.runtimeconfig.json
+/mnt/c/Users/rasul/OneDrive/Desktop/C#/lesson14/bin/Debug/net7.0/lesson14.dll
+/mnt/c/Users/rasul/OneDrive/Desktop/C#/lesson14/bin/Debug/net7.0/lesson14.pdb
+/mnt/c/Users/rasul/OneDrive/Desktop/C#/lesson14/obj/Debug/net7.0/lesson14.csproj.AssemblyReference.cache
+/mnt/c/Users/rasul/OneDrive/Desktop/C#/lesson14/obj/Debug/net7.0/lesson14.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/rasul/OneDrive/Desktop/C#/lesson14/obj/Debug/net7.0/lesson14.AssemblyInfoInputs.cache
+/mnt/c/Users/rasul/OneDrive/Desktop/C#/lesson14/obj/Debug/net7.0/lesson14.AssemblyInfo.cs
+/mnt/c/Users/rasul/OneDrive/Desktop/C#/lesson14/obj/Debug/net7.0/lesson14.csproj.CoreCompileInputs.cache
+/mnt/c/Users/rasul/OneDrive/Desktop/C#/lesson14/obj/Debug/net7.0/lesson14.dll
+/mnt/c/Users/rasul/OneDrive/Desktop/C#/lesson14/obj/Debug/net7.0/refint/lesson14.dll
+/mnt/c/Users/rasul/OneDrive/Desktop/C#/lesson14/obj/Debug/net7.0/lesson14.pdb
+/mnt/c/Users/rasul/OneDrive/Desktop/C#/lesson14/obj/Debug/net7.0/lesson14.genruntimeconfig.cache
+/mnt/c/Users/rasul/OneDrive/Desktop/C#/lesson14/obj/Debug/net7.0/ref/lesson14.dll

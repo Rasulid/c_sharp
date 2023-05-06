@@ -38,8 +38,8 @@ namespace lesson2 {
                             // str                
 
 
-            string test = Console.ReadLine();
-            Console.WriteLine( "Input " +test);
+            // string test = Console.ReadLine();
+            // Console.WriteLine( "Input " +test);
 
 
             char symbol = 's'; // one simbol
